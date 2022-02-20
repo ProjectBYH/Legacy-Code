@@ -41,9 +41,9 @@
                 <br>
                 <sub>
                     <b>plutio1592</b>
+                    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" style="max-width: 100%;>
 
-
-
-        </td>
-    </tr>
+</sub>
+</td>
+</tr>
 </table>
