@@ -42,9 +42,8 @@
                 <sub>
                     <b>plutio1592</b>
                     <br>
-                    <img src="https://camo.githubusercontent.com/c65afd851ddd887fb01b9fcedfbdf3af8758a3f47ea3ac5ebc895fd4ec99dcbb/68747470733a2f2f75732d63656e7472616c312d70726f67726573732d6d61726b646f776e2e636c6f756466756e6374696f6e732e6e65742f70726f67726573732f3638" data-canonical-src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" style="max-width: 100%;>
-
-</sub>
-</td>
-</tr>
+                    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0" style="max-width: 100%;>
+                </sub>
+        </td>
+    </tr>
 </table>
