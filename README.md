@@ -43,7 +43,14 @@
             <a href="https://github.com/plutio1592">
                 <img src="https://avatars.githubusercontent.com/u/96008486?v=4" width="100px"; alt style="max=width: 100%;">
                 <br><sub><b>plutio1592</b></sub></td>
+        <td align="center">
+            <a href="https://github.com/plutio1592">
+                <img src="https://avatars.githubusercontent.com/u/96008486?v=4" width="100px"; alt style="max=width: 100%;">
+                <br><sub><b>plutio1592</b></sub></td>
+        <td align="center">
+            <a href="https://github.com/plutio1592">
+                <img src="https://avatars.githubusercontent.com/u/96008486?v=4" width="100px"; alt style="max=width: 100%;">
+                <br><sub><b>plutio1592</b></sub></td>
 
-</td>
 </tr>
 </table>
