@@ -32,21 +32,21 @@
 
 
 
-# 참여자와 진행도
+# 스터디 참여자
 <table>
     <tr>
         <td align="center">
             <a href="https://https://github.com/ProjectBYH">
                 <img src="https://avatars.githubusercontent.com/u/94483085?v=4" width="100px"; alt style="max=width: 100%;">
-                <br><sub><b>plutio1592</b></sub></td>
+                <br><sub><b>ProjectBYH</b></sub></td>
         <td align="center">
-            <a href="https://github.com/plutio1592">
-                <img src="https://avatars.githubusercontent.com/u/96008486?v=4" width="100px"; alt style="max=width: 100%;">
-                <br><sub><b>plutio1592</b></sub></td>
+            <a href="https://github.com/1two13">
+                <img src="https://avatars.githubusercontent.com/u/88531407?v=4" width="100px"; alt style="max=width: 100%;">
+                <br><sub><b>1two13</b></sub></td>
         <td align="center">
-            <a href="https://github.com/plutio1592">
-                <img src="https://avatars.githubusercontent.com/u/96008486?v=4" width="100px"; alt style="max=width: 100%;">
-                <br><sub><b>plutio1592</b></sub></td>
+            <a href="https://github.com/sowookim">
+                <img src="https://avatars.githubusercontent.com/u/94825738?v=4" width="100px"; alt style="max=width: 100%;">
+                <br><sub><b>sowookim</b></sub></td>
         <td align="center">
             <a href="https://github.com/plutio1592">
                 <img src="https://avatars.githubusercontent.com/u/96008486?v=4" width="100px"; alt style="max=width: 100%;">
